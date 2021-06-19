@@ -1,5 +1,5 @@
 import csv, json
-csvFilePath = "test.csv"
+csvFilePath = "file.csv"
 
  #reading csv and adding data to dictionary
 data = {}

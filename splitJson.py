@@ -1,6 +1,6 @@
 import json
 
-with open('south.json') as json_file:
+with open('file.json') as json_file:
     data = json.load(json_file)
    
     lista =  []
